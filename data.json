@@ -16,14 +16,15 @@
     },
     {
       "id": 2,
-      "title": "Coco",
-      "director": "Chloe",
-      "poster": "/posters/puppy2.jpg",
-      "poster2": "Labrador",
-      "year": "2000",
-      "casts": "blha",
-      "synopsis": "blah",
-      "ratings": 4,
+      "title": "Interstellar",
+      "genre": "Science Fiction",
+      "director": "Christopher Nolan",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "poster2": "https://images.squarespace-cdn.com/content/v1/5a78ab8490badee028bef0e9/1568935524292-TPSLMXHD9HE6PKN02YOG/Interstellar.jpg",
+      "year": "2014",
+      "casts": ["Matthew McConaughe", "Jessica Chastain", "Anne Hathaway", "Mackenzie Foy", "Timothée Chalamet", "Matt Damon"],
+      "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+      "ratings": 5,
       "comments": []
     },
     {
