@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Fido",
+      "director": "Fred",
+      "poster": "/posters/puppy1.jpg",
+      "poster2": "Labrador",
+      "year": "2000",
+      "casts": "blha",
+      "synopsis": "blah",
+      "ratings": 4,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "title": "Coco",
+      "director": "Chloe",
+      "poster": "/posters/puppy2.jpg",
+      "poster2": "Labrador",
+      "year": "2000",
+      "casts": "blha",
+      "synopsis": "blah",
+      "ratings": 4,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "Magnum",
+      "director": "Michael",
+      "poster": "/posters/puppy3.jpg",
+      "poster2": "Rottweiler",
+      "year": "2000",
+      "casts": "blha",
+      "synopsis": "blah",
+      "ratings": 4,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "Sadie",
+      "director": "Sam",
+      "poster": "/posters/puppy4.jpg",
+      "poster2": "Labrador",
+      "year": "2000",
+      "casts": "blha",
+      "synopsis": "blah",
+      "ratings": 4,
+      "comments": []
+    }
+
+  ]
+}
+
