@@ -2,14 +2,15 @@
   "movies": [
     {
       "id": 1,
-      "title": "Fido",
-      "director": "Fred",
-      "poster": "/posters/puppy1.jpg",
-      "poster2": "Labrador",
-      "year": "2000",
-      "casts": "blha",
-      "synopsis": "blah",
-      "ratings": 4,
+      "title": "Ambulance",
+      "genres": "Action, Crime, Drama, Thriller",
+      "director": "Michael Bay",
+      "poster": "https://i.etsystatic.com/10683147/r/il/d2f2a4/3551579950/il_570xN.3551579950_p5m4.jpg",
+      "poster2": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/ambulance/images/regions/us/onesheet.jpg",
+      "year": "2022",
+      "casts": ["Jake Gyllenhaal","Yahya Abdul-Mateen II","Eiza Gonzalez", "Garret Dillahunt", "Keir O'Donnell"],
+      "synopsis": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million",
+      "ratings": 8.5,
       "comments": []
     },
     {
