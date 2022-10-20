@@ -26,14 +26,23 @@
     },
     {
       "id": 3,
-      "title": "Magnum",
-      "director": "Michael",
-      "poster": "/posters/puppy3.jpg",
-      "poster2": "Rottweiler",
-      "year": "2000",
-      "casts": "blha",
-      "synopsis": "blah",
-      "ratings": 4,
+      "title": "The Martian",
+      "genres": "Adventure, Drama, Sci-Fi",
+      "director": "Ridley Scott",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg",
+      "poster2": "https://imgix.ranker.com/list_img_v2/19639/2219639/original/the-martian-movie-quotes?w=817&h=427&fm=jpg&q=50&fit=crop",
+      "year": "2015",
+      "casts": [
+        "Matt Damon",
+        "Jessica Chastain",
+        "Kristen Wiig",
+        "Kate Mara",
+        "Jeff Daniels",
+        "Michael Pena",
+        "Sean Bean"
+      ],
+      "synopsis": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring "the Martian" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.—20th Century Fox",
+      "ratings": 10,
       "comments": []
     },
     {
@@ -48,7 +57,5 @@
       "ratings": 4,
       "comments": []
     }
-
   ]
 }
-
