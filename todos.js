@@ -13,10 +13,12 @@
 
 // division of work from here...
 
+// -- Shymala & Richard -- //
 // 6. create main.hbs (html) and create and set up other handlebars views pages and formate {{}} these according to data.json structure
 // 7. we need to have main.hbs, home.hbs detail.hbs
 // 7a. create main.css
 
+// -- CH and Alizaa -- //
 // 9. create a function to load data.json  - readFile
 // 10. create a route for home route
 // 11. create a route for detail route

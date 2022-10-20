@@ -1,0 +1,26 @@
+{
+  "name": "movie-recommendation-from-team-1",
+  "version": "1.0.0",
+  "description": "movie-recommendation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index --ignore data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horoeka-2022/Team-1-week2-grp-project.git"
+  },
+  "author": "Richard, Shymala, CJ, Alizaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horoeka-2022/Team-1-week2-grp-project/issues"
+  },
+  "homepage": "https://github.com/horoeka-2022/Team-1-week2-grp-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.20"
+  }
+}
