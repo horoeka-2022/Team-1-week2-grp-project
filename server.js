@@ -15,10 +15,10 @@ const path = require('path')
 //require fs
 const fs = require('node:fs/promises')
 
-// const movieRoute = require('./routes.js')
+const movieRoute = require('./routes.js')
 
 server.set('view engine', 'hbs')
-// server.use('/movies', movieRoute)
+server.use('/movies', movieRoute)
 
 server.get('/', (req, res) => {
   // res.send('Pupparazzi')
