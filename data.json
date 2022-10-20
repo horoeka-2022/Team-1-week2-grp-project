@@ -6,11 +6,12 @@
       "genres": "Action, Crime, Drama, Thriller",
       "director": "Michael Bay",
       "poster": "https://i.etsystatic.com/10683147/r/il/d2f2a4/3551579950/il_570xN.3551579950_p5m4.jpg",
-      "poster2": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/ambulance/images/regions/us/onesheet.jpg",
+      "poster2": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/ambulance/images/regions/us/header.jpg",
       "year": "2022",
       "casts": ["Jake Gyllenhaal","Yahya Abdul-Mateen II","Eiza Gonzalez", "Garret Dillahunt", "Keir O'Donnell"],
       "synopsis": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million",
       "ratings": 8.5,
+      "trailer": "https://www.youtube.com/watch?v=7NU-STboFeI",
       "comments": []
     },
     {
@@ -23,7 +24,8 @@
       "year": "2014",
       "casts": ["Matthew McConaughe", "Jessica Chastain", "Anne Hathaway", "Mackenzie Foy", "Timothée Chalamet", "Matt Damon"],
       "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
-      "ratings": 5,
+      "ratings": 9,
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
       "comments": []
     },
     {
@@ -45,6 +47,7 @@
       ],
       "synopsis": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring 'the Martian' home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.—20th Century Fox",
       "ratings": 10,
+      "trailer": "https://www.youtube.com/watch?v=ej3ioOneTy8",
       "comments": []
     },
     {
@@ -65,6 +68,7 @@
       ],
       "synopsis": "Adventurer Rick O'Connell and Egyptologist Evelyn, along with a bunch of archaeologists, inadvertently wake up an evil mummy during an archaeological excavation at the ancient city of Hamunaptra.",
       "ratings": 9,
+      "trailer": "https://www.youtube.com/watch?v=f7oKxlaUBac",
       "comments": []
     }
   ]
