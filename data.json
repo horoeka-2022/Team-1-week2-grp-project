@@ -49,15 +49,22 @@
     },
     {
       "id": 4,
-      "title": "Sadie",
-      "genres": "something",
-      "director": "Sam",
-      "poster": "/posters/puppy4.jpg",
-      "poster2": "Labrador",
-      "year": "2000",
-      "casts": "blha",
-      "synopsis": "blah",
-      "ratings": 4,
+      "title": "The Mummy",
+      "genres": "Adventure, Action",
+      "director": "Stephen Sommers",
+      "poster": "https://en.wikipedia.org/wiki/The_Mummy_Returns#/media/File:The_Mummy_Returns_poster.jpg",
+      "poster2": "https://reggiestake.files.wordpress.com/2019/05/the-mummy-1999-image-2.jpg",
+      "year": "1999",
+      "casts": [
+        "Brendan Fraser",
+        "Rachel Weiz",
+        "Patricia Velasquez",
+        "Arnold Vosloo",
+        "Oded Fehr",
+        "John Hannah"
+      ],
+      "synopsis": "Adventurer Rick O'Connell and Egyptologist Evelyn, along with a bunch of archaeologists, inadvertently wake up an evil mummy during an archaeological excavation at the ancient city of Hamunaptra.",
+      "ratings": 9,
       "comments": []
     }
   ]
