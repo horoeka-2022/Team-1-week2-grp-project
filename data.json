@@ -1,20 +1,6 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "Ambulance",
-      "genres": "Action, Crime, Drama, Thriller",
-      "director": "Michael Bay",
-      "poster": "https://i.etsystatic.com/10683147/r/il/d2f2a4/3551579950/il_570xN.3551579950_p5m4.jpg",
-      "poster2": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/ambulance/images/regions/us/header.jpg",
-      "year": "2022",
-      "casts": ["Jake Gyllenhaal","Yahya Abdul-Mateen II","Eiza Gonzalez", "Garret Dillahunt", "Keir O'Donnell"],
-      "synopsis": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million",
-      "ratings": 8.5,
-      "trailer": "https://www.youtube.com/embed/7NU-STboFeI",
-      "comments": []
-    },
-    {
       "id": 2,
       "title": "Interstellar",
       "genre": "Science Fiction",
@@ -22,7 +8,14 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
       "poster2": "https://images.squarespace-cdn.com/content/v1/5a78ab8490badee028bef0e9/1568935524292-TPSLMXHD9HE6PKN02YOG/Interstellar.jpg",
       "year": "2014",
-      "casts": ["Matthew McConaughe", "Jessica Chastain", "Anne Hathaway", "Mackenzie Foy", "Timothée Chalamet", "Matt Damon"],
+      "casts": [
+        "Matthew McConaughe",
+        "Jessica Chastain",
+        "Anne Hathaway",
+        "Mackenzie Foy",
+        "Timothée Chalamet",
+        "Matt Damon"
+      ],
       "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
       "ratings": 9,
       "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
@@ -70,6 +63,30 @@
       "ratings": 9,
       "trailer": "https://www.youtube.com/embed/f7oKxlaUBac",
       "comments": []
+    },
+    {
+      "id": 1,
+      "title": "Ambulance",
+      "genres": "Action, Crime, Drama, Thriller",
+      "director": "Michael Bay",
+      "poster": "https://i.etsystatic.com/10683147/r/il/d2f2a4/3551579950/il_570xN.3551579950_p5m4.jpg",
+      "poster2": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/ambulance/images/regions/us/header.jpg",
+      "year": "2022",
+      "casts": [
+        "Jake Gyllenhaal",
+        "Yahya Abdul-Mateen II",
+        "Eiza Gonzalez",
+        "Garret Dillahunt",
+        "Keir O'Donnell"
+      ],
+      "synopsis": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million",
+      "ratings": 8.5,
+      "trailer": "https://www.youtube.com/embed/7NU-STboFeI",
+      "comments": [
+        "CJ: CJ recommends this movie",
+        "Richard: I do not recommend this movie",
+        "Alizaa: yeahhhhh"
+      ]
     }
   ]
 }

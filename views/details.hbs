@@ -1,5 +1,4 @@
 <div class="movies">
-  <img class="img-circle" src="" alt="{{title}}">
   <h2>{{title}}</h2>
   <div>Genres: {{genres}}</div>
   <div>Director: {{director}}</div>
@@ -13,7 +12,11 @@
   <div>
     {{>trailer}}
   </div>
-
-  <a href="/movies/{{id}}/edit">Edit</a>
+  <div>{{>comments}}</div>
+  <div>
+    {{#each comments}}
+    <li>{{this}}</li>
+    {{/each}}
+    </div>
 </div>
 <link
