@@ -1,5 +1,5 @@
 body {
-  background-color: #6a696d;
+  background-color: #858486;
   font-family: 'Courier New', Courier, monospace;
   margin: 0 auto;
 }
@@ -7,16 +7,17 @@ body {
 .container {
   display: grid;
   grid-template-columns: 600px 600px;
+  /* grid-column-gap: 10px;  */
   text-align: center;
-  /* margin: 0 auto; */
-  /* width: 40%; */
-  grid-gap: 16px;
+  grid-gap: 10px;
   justify-content: center;
+  gap: 100px 20px;
+  grid-auto-columns: 100px;
+
 }
 
 .movies-list {
   margin: 0 auto;
-
   align-items: center;
   align-items: center;
   justify-content: center;
@@ -30,9 +31,7 @@ body {
 
 
 .movie {
-
   width: 100%;
-
   justify-content: center;
 }
 
@@ -40,15 +39,15 @@ body {
   margin: 0 auto;
   border-width: 100%;
   object-fit: cover;
+  line-height: 0%;
   width: 75%;
   height: 100%;
   align-items: center;
   justify-content: center;
-
 }
 
 .title {
-  text-align: center;
+text-align: center;
 font-size: 500%;
 }
 
@@ -58,8 +57,9 @@ font-size: 500%;
 }
 
 .form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-family: 'Roboto', sans-serif;
+display: grid;
+align-items: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: larger;
+text-align: center;
 }
