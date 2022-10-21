@@ -45,13 +45,8 @@ body {
 }
 
 .title {
-<<<<<<< HEAD
-  text-align: center;
-  font-size: 500%;
-=======
 text-align: center;
 font-size: 500%;
->>>>>>> 58307dd37b6118526fe39a9d9c9ffe97763c658c
 }
 
 .nav {
@@ -60,21 +55,9 @@ font-size: 500%;
 }
 
 .form {
-<<<<<<< HEAD
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-family: 'Roboto', sans-serif;
-}
-
-.comments {
-  width: 20%;
-}
-=======
 display: grid;
 align-items: center;
 font-family: 'Courier New', Courier, monospace;
 font-size: larger;
 text-align: center;
 }
->>>>>>> 58307dd37b6118526fe39a9d9c9ffe97763c658c
