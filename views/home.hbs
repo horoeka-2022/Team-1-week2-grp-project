@@ -1,7 +1,12 @@
 <div class="container">
   {{#each movies}}
   <div class="movie-list">
-    <a href="/movies/{{id}}"><img class="img-circle" src="" alt="{{title}}"></a>
+    <a href="/movies/{{id}}"><img class="img-square" src="{{poster}}" alt="{{title}}"></a>
   </div>
   {{/each}}
 </div>
+
+<div class="movies">
+  <img class="img-circle" src="" alt="{{title}}">
+  <h2>{{title}}</h2>
+  <img src="{{poster}}" alt="movie-poster">
