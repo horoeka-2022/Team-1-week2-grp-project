@@ -1,33 +1,12 @@
 {
   "movies": [
     {
-      "id": 2,
-      "title": "Interstellar",
-      "genre": "Science Fiction",
-      "director": "Christopher Nolan",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-      "poster2": "https://images.squarespace-cdn.com/content/v1/5a78ab8490badee028bef0e9/1568935524292-TPSLMXHD9HE6PKN02YOG/Interstellar.jpg",
-      "year": "2014",
-      "casts": [
-        "Matthew McConaughe",
-        "Jessica Chastain",
-        "Anne Hathaway",
-        "Mackenzie Foy",
-        "Timothée Chalamet",
-        "Matt Damon"
-      ],
-      "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
-      "ratings": 9,
-      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
-      "comments": []
-    },
-    {
       "id": 4,
       "title": "The Mummy",
       "genres": "Adventure, Action",
       "director": "Stephen Sommers",
       "poster": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Mummy_Returns_poster.jpg",
-      "poster2": "https://reggiestake.files.wordpress.com/2019/05/the-mummy-1999-image-2.jpg",
+      "poster2": "https://www.joblo.com/wp-content/uploads/2021/05/mummy99sacrifice.jpg",
       "year": "1999",
       "casts": [
         "Brendan Fraser",
@@ -88,6 +67,29 @@
       "trailer": "https://www.youtube.com/embed/ej3ioOneTy8",
       "comments": [
         "Richard: This movie is dope!"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "genres": "Science Fiction",
+      "director": "Christopher Nolan",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "poster2": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F37c60100-65bf-11e4-a454-00144feabdc0?dpr=1&fit=scale-down&source=next&width=700",
+      "year": "2014",
+      "casts": [
+        "Matthew McConaughe",
+        "Jessica Chastain",
+        "Anne Hathaway",
+        "Mackenzie Foy",
+        "Timothée Chalamet",
+        "Matt Damon"
+      ],
+      "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+      "ratings": 9,
+      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "comments": [
+        "CJ: wants to try commenting"
       ]
     }
   ]
