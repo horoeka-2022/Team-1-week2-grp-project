@@ -26,9 +26,7 @@ body {
 .app {
   display: grid;
   /* width: 50%; */
-
 }
-
 
 .movie {
   width: 100%;
